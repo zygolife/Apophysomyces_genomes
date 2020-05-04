@@ -1,0 +1,14 @@
+# BUSCO version is: 4.0.5 
+# The lineage dataset is: fungi_odb10 (Creation date: 2019-12-13, number of species: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/ZyGoLife/Apophysomyces_genomes/Genome/Apophysomyces_variabilis_NCCPF_102052.masked.fasta
+# BUSCO was run in mode: genome
+
+	***** Results: *****
+
+	C:89.6%[S:82.2%,D:7.4%],F:0.8%,M:9.6%,n:758	   
+	679	Complete BUSCOs (C)			   
+	623	Complete and single-copy BUSCOs (S)	   
+	56	Complete and duplicated BUSCOs (D)	   
+	6	Fragmented BUSCOs (F)			   
+	73	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
